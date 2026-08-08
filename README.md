@@ -1,4 +1,4 @@
-# 🏥 Arogya Sathi (આરોગ્ય સાથી) - VoiceForBharat Day 3
+# 🏥 Arogya Sathi (આરોગ્ય સાથી) VoiceForBharat Day 3
 
 Welcome to my Day 3 submission for the **10 Days of Voice Agents - #VoiceForBharat Edition** challenge!
 
