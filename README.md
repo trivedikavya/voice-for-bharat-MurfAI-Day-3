@@ -8,8 +8,6 @@ Building upon the strict persona and safety guardrails established in Day 2, Day
 
 Arogya Sathi has been upgraded from a static persona to an active participant. Today's updates include:
 
-*   **[New Feature 1]:** [Describe the feature, e.g., The agent can now securely log patient queries into a local JSON database.]
-*   **[New Feature 2]:** [Describe the feature, e.g., Implemented function calling so the agent can pull real-time clinic hours.]
 *   **Maintained Guardrails:** All emergency escalations (108 triggers) and medical disclaimer protocols from Day 2 remain actively enforced.
 *   **Seamless Gujarati TTS:** Audio synthesis continues to run smoothly using Murf AI's Falcon-2 model.
 
