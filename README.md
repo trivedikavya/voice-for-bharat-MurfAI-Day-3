@@ -23,35 +23,29 @@ Arogya Sathi has been upgraded from a static persona to an active participant. T
 ## ⚙️ Local Setup Instructions
 
 **1. Clone the repository**
-`bash
+```bash
 git clone https://github.com/yourusername/voice-for-bharat-MurfAI-Day-3.git
 cd voice-for-bharat-MurfAI-Day-3
-`
+```
 
 **2. Configure Environment Variables**
 Ensure your `.env` file in the `backend` directory contains:
-`env
+```env
 MURF_AI_API_KEY=your_murf_api_key
 ASSEMBLYAI_API_KEY=your_assemblyai_api_key
 GOOGLE_API_KEY=your_google_api_key
-`
+```
 
 **3. Run the Backend & Frontend**
-`bash
+```bash
 cd backend
 # Activate virtual environment
 .\venv\Scripts\activate  # Windows
 source venv/bin/activate  # Mac/Linux
 
 python main.py
-`
+```
 Open `frontend/index.html` using Live Server to start interacting.
-
-## 🎯 Day 3 Demo Scenarios
-
-Try these prompts to test today's new capabilities:
-1. **[Scenario 1]:** "[Write what the user should say in Gujarati]" -> **Result:** [What the agent does]
-2. **[Scenario 2]:** "[Write what the user should say in Gujarati]" -> **Result:** [What the agent does]
 
 ---
 *Built for the 10 Days of Voice Agents Challenge by Murf AI.*
